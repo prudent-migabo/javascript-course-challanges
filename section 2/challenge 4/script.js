@@ -33,4 +33,3 @@ function calcAverage(arr) {
 }
 
 console.log(calcAverage(totals));
-console.log("function successfuly run");
