@@ -33,4 +33,5 @@ function calcAverage(arr) {
   return average;
 }
 
-console.log(calcAverage(totals));
+// console.log(calcAverage(totals));
+console.log("sum");
