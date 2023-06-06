@@ -3,6 +3,7 @@ const billsRegistered = [];
 
 const tips = [];
 const totals = [];
+let billRegisteredTotal;
 let totalValue;
 
 function calcTip(billValue) {
